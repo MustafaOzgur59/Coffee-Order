@@ -1,9 +1,12 @@
-import service.MenuService;
-import service.OrderService;
-import service.FormattingService;
+package app;
+
+
 import io.ConsoleInputReader;
 import io.ConsoleOutputWriter;
 import io.ConsoleUI;
+import service.FormattingService;
+import service.MenuService;
+import service.OrderService;
 
 public class Main {
     public static void main(String[] args) {
