@@ -15,7 +15,7 @@ A simple console based Java application for managing a coffee menu, placing orde
 ### 1. Clone the repository
 
 ```bash
-https://github.com/MustafaOzgur59/Coffee-Order.git
+git clone https://github.com/MustafaOzgur59/Coffee-Order.git
 cd Coffee-Order
 ```
 
