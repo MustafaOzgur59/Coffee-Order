@@ -84,7 +84,6 @@ public enum CoffeeType {
         }
     }
 
-    /** Lookup by menu number. */
     public static Optional<CoffeeType> fromNumber(int n) {
         return Optional.ofNullable(BY_NUMBER.get(n));
     }
